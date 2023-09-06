@@ -10,7 +10,7 @@ Quero compartilhar um pouco sobre mim.
 <img align="right" width="200" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-const DouglasCamata = {
+const SebastiaoBNJunior = {
     name: "Sebastião B. N. Junior",
     languages: ["Python", "JavaScript", "React", "C#", "Visual Basic", "TypeScript "],
     databases: ["MySql", "SQL Server" ]
@@ -33,18 +33,16 @@ const DouglasCamata = {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/douglas-camata">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-camata&theme=dracula&hide_langs_below=1" />
+<a href="https://github.com/SebastiaoBNJunior">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastiaoBNJunior&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/douglas-camata">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=douglas-camata&show_icons=true&theme=dracula&line_height=27" alt="Douglas Camata de Araujo github stats"/>
+<a href="https://github.com/SebastiaoBNJunior">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SebastiaoBNJunior&show_icons=true&theme=dracula&line_height=27" alt="Sebastião B. N. Junior github stats"/>
 </a>
 
-[website]: https://dcasistemas.com.br/
-[github]: https://github.com/douglas-camata
-[instagram]: https://www.instagram.com/douglas_camata/
-[linkedin]: https://www.linkedin.com/in/douglas-camata/
+[github]: https://github.com/SebastiaoBNJunior
+[linkedin]: https://www.linkedin.com/in/sebastiaobnjunior/
 <br>
 
 ## **Ferramentas que já trabalhei**
@@ -55,10 +53,9 @@ const DouglasCamata = {
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
