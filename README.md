@@ -32,6 +32,8 @@ const SebastiaoBNJunior = {
 <code><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img height="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma"></code>
 <code><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img height="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS"></code>
 <code><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img height="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python"></code>
+<code><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img height="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL"></code>
+<code><a href="https://jestjs.io" target="_blank" rel="noreferrer"><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_snapshot_icon_130513.png" alt="Jest"></code>
 
 ## **GitHub Estatísticas**
 
