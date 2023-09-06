@@ -1,20 +1,19 @@
 ### Olá devs 👋
 
-Gosto de criar sistemas e ajudar outras pessoas a fazer o mesmo.
+Quero compartilhar um pouco sobre mim.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 &nbsp; Trabalhando como **Instrutor de Formação Profissional** no SENAI - SP
-- 🌱 &nbsp; Aprendendo mais sobre **JS / React / React Native / Python**.
+- 🌱 &nbsp; Pessoa estudante da Trybe em Desenvolvimento WEB.
 
 <img align="right" width="200" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
 const DouglasCamata = {
-    name: "Douglas Camata de Araujo",
-    languages: ["Python", "JavaScript", "React", "C#", "Visual Basic", "Delphi", "PHP"],
-    databases: ["MySql", "Firebird", "SQL Server", "MongoDB", "Firebase"]
+    name: "Sebastião B. N. Junior",
+    languages: ["Python", "JavaScript", "React", "C#", "Visual Basic", "TypeScript "],
+    databases: ["MySql", "SQL Server" ]
 
 }
 ```
