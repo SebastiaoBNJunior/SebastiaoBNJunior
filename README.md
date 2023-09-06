@@ -41,9 +41,9 @@ const SebastiaoBNJunior = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastiaoBNJunior&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/SebastiaoBNJunior">
+<!-- <a href="https://github.com/SebastiaoBNJunior">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SebastiaoBNJunior&show_icons=true&theme=dracula&line_height=27" alt="Sebastião B. N. Junior github stats"/>
-</a>
+</a> -->
 
 [github]: https://github.com/SebastiaoBNJunior
 [linkedin]: https://www.linkedin.com/in/sebastiaobnjunior/
