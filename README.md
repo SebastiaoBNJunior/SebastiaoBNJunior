@@ -1,6 +1,6 @@
-### Olá devs 👋
+### Olá devs ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Quero compartilhar um pouco sobre mim.
+## Full-Stack Web Developer Student
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
