@@ -7,6 +7,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🌱 &nbsp; Pessoa estudante da Trybe em Desenvolvimento WEB.
 - 💻 &nbsp; Estou em transição de carreira.
+- 🌍 &nbsp; I'm Brazilian and I live in Vitória-ES, Brazil.
 
 <img align="right" width="250" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -15,8 +16,11 @@ const SebastiaoBNJunior = {
     name: "Sebastião B. N. Junior",
     languages: ["Python", "JavaScript", "React", "C#", "Visual Basic", "TypeScript "],
     databases: ["MySql", "SQL Server" ]
-
 }
+const contactMe = () => ({
+linkedin: 'https://www.linkedin.com/in/sebastiaobnjunior/'
+email: 'sebastiaobnjunior@gmail.com'
+});
 ```
 
 ## **Linguagens e Ferramentas:**  
