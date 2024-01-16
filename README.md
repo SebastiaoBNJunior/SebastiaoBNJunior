@@ -4,9 +4,9 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🌱 &nbsp; Pessoa estudante da Trybe em Desenvolvimento WEB.
-- 💻 &nbsp; Estou em transição de carreira.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🌱 &nbsp; Trybe student in WEB Development.
+- 💻 &nbsp; I'm in a career transition.
 - 🌍 &nbsp; I'm Brazilian and I live in Vitória-ES, Brazil.
 
 <img align="right" width="250" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
@@ -23,7 +23,7 @@ email: 'sebastiaobnjunior@gmail.com'
 });
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Languages ​​and Tools:**  
 
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
 <code><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img height="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript"></code>
@@ -40,7 +40,7 @@ email: 'sebastiaobnjunior@gmail.com'
 <code><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img height="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL"></code>
 <code><a href="https://jestjs.io" target="_blank" rel="noreferrer"><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_snapshot_icon_130513.png" alt="Jest"></code>
 
-## **GitHub Estatísticas**
+## **GitHub Statistics**
 
 <a href="https://github.com/SebastiaoBNJunior">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastiaoBNJunior&theme=dracula&hide_langs_below=1" />
@@ -54,7 +54,7 @@ email: 'sebastiaobnjunior@gmail.com'
 [linkedin]: https://www.linkedin.com/in/sebastiaobnjunior/
 <br>
 
-## **Ferramentas que já trabalhei**
+## **Tools I've worked with**
   ![C#](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -69,7 +69,7 @@ email: 'sebastiaobnjunior@gmail.com'
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   
-#### Rede Sociais!
+#### Social Networks!
 
 🐦 [github][github] **|** 
 👔 [linkedin][linkedin]
