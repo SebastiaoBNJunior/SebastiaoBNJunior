@@ -45,6 +45,20 @@ const contactMe = () => ({
 });
 ```
 
+## **GitHub Statistics**
+
+<a href="https://github.com/SebastiaoBNJunior">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastiaoBNJunior&theme=dracula&hide_langs_below=1" />
+</a>
+
+<!-- <a href="https://github.com/SebastiaoBNJunior">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SebastiaoBNJunior&show_icons=true&theme=dracula&line_height=27" alt="Sebastião B. N. Junior github stats"/>
+</a> -->
+
+[github]: https://github.com/SebastiaoBNJunior
+[linkedin]: https://www.linkedin.com/in/sebastiaobnjunior/
+<br>
+
 ## **Languages ​​and Tools:**  
 
   ![C#](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -61,20 +75,8 @@ const contactMe = () => ({
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-## **GitHub Statistics**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<a href="https://github.com/SebastiaoBNJunior">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastiaoBNJunior&theme=dracula&hide_langs_below=1" />
-</a>
-
-<!-- <a href="https://github.com/SebastiaoBNJunior">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SebastiaoBNJunior&show_icons=true&theme=dracula&line_height=27" alt="Sebastião B. N. Junior github stats"/>
-</a> -->
-
-[github]: https://github.com/SebastiaoBNJunior
-[linkedin]: https://www.linkedin.com/in/sebastiaobnjunior/
-<br>
-  
 #### Social Networks!
 
 🐦 [github][github] **|** 
