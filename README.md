@@ -2,10 +2,10 @@
 
 ## Full-Stack Web Developer Student
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
+## <img width="45" alt="about" src="https://images.creativefabrica.com/products/previews/2023/10/27/3pUprEjhM/2XL0tKWSxnnKPfqZnG0E5FJQBy9-mobile.jpg"> More about me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🌱 &nbsp; Trybe student in WEB Development.
+- 🌱 &nbsp; Trybe student in FullStack Web Development.
 - 💻 &nbsp; I'm in a career transition.
 - 🌍 &nbsp; I'm Brazilian and I live in Vitória-ES, Brazil.
 
