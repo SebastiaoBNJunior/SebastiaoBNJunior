@@ -91,9 +91,10 @@ const contactMe = () => ({
 #### Social Networks!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiaobnjunior/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzCMlcGzvLLBDnbZZrKwnKKWjvcLtKNsCNVtPVHXvBdDRxPzRPWGnRXxjCskDPKshBddRpn)
-<a href="mailto:sebastiaobnjunior@gmail.com">Enviar e-mail</a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastiaobnjunior@gmail.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastiaobnjunior@gmail.com?subject=Quero marcar uma conversa com voce!&body=Gostei do seu perfil e gostaria de bater um papo com voce! :)).
+
 
 
 
