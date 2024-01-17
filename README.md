@@ -2,7 +2,7 @@
 
 ## Full-Stack Web Developer Student
 
-## <img width="45" alt="about" src="https://e7.pngegg.com/pngimages/94/414/png-clipart-astronaut-big-data-astronaut-web-design-fictional-character.png"> More about me
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🌱 &nbsp; Trybe student in FullStack Web Development.
@@ -13,13 +13,35 @@
 
 ```kotlin
 const SebastiaoBNJunior = {
-    name: "Sebastião B. N. Junior",
-    languages: ["Python", "JavaScript", "React", "C#", "Visual Basic", "TypeScript "],
-    databases: ["MySql", "SQL Server" ]
-}
+  name: "Sebastião B. N. Junior",
+  about: "Web Development Student",
+
+  languages and technologies: [
+
+    lenguages: [
+      'JavaScript',
+      'TypeScript',
+      'Python',
+      'C++',
+],
+    frontEnd: [
+      'React',
+      'React-Testing-Library',
+      'Hooks',
+      'Jest',
+      'HTML'
+      'CSS',
+],
+    backEnd: [
+      'MySQL'
+      'Docker'
+      'NodeJS'
+],
+]};
+
 const contactMe = () => ({
-linkedin: 'https://www.linkedin.com/in/sebastiaobnjunior/'
-email: 'sebastiaobnjunior@gmail.com'
+  linkedin: 'https://www.linkedin.com/in/sebastiaobnjunior/'
+  email: 'sebastiaobnjunior@gmail.com'
 });
 ```
 
