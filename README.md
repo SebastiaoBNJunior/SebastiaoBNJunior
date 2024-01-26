@@ -25,7 +25,7 @@ const SebastiaoBNJunior = {
       'C++',
 ],
     frontEnd: [
-      'React',
+      'React.JS',
       'React-Testing-Library',
       'Hooks',
       'Jest',
