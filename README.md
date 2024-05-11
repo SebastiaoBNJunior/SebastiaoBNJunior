@@ -5,7 +5,7 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🌱 &nbsp; Trybe student in FullStack Web Development.
+- 🌱 &nbsp; Trybe student in FullStack Web Jr.
 - 💻 &nbsp; I'm in a career transition.
 - 🌍 &nbsp; I'm Brazilian and I live in Vitória-ES, Brazil.
 - 📫 &nbsp; How to reach me sebastiaobnjunior@gmail.com
