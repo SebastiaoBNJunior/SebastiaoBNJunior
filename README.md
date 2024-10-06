@@ -1,13 +1,13 @@
 ### Hello devs ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## Full-Stack Web Developer Jr.
+## Full-Stack Web Developer.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🌱 &nbsp; Trybe student in FullStack Web Jr.
+- 🌱 &nbsp; FullStack Web.
 - 💻 &nbsp; I'm in a career transition.
-- 🌍 &nbsp; I'm Brazilian and I live in Vitória-ES, Brazil.
+- 🌍 &nbsp; I'm Brazilian and I live in Braga, Portugal.
 - 📫 &nbsp; How to reach me sebastiaobnjunior@gmail.com
 
 <img align="right" width="250" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
@@ -15,7 +15,7 @@
 ```kotlin
 const SebastiaoBNJunior = {
   name: "Sebastião B. N. Junior",
-  about: "Web Development Student",
+  about: "Web Development Full Stack",
 
   languages and technologies: [
 
