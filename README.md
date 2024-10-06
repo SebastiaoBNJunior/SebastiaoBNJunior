@@ -5,7 +5,7 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🌱 &nbsp; FullStack Web.
+- 🌱 &nbsp; Web Development Full Stack.
 - 💻 &nbsp; I'm in a career transition.
 - 🌍 &nbsp; I'm Brazilian and I live in Braga, Portugal.
 - 📫 &nbsp; How to reach me sebastiaobnjunior@gmail.com
