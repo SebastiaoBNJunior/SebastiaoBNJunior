@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🌱 &nbsp; Web Development Full Stack.
-- 💻 &nbsp; I'm in a career transition.
+- 💻 &nbsp; +2 years of experience.
 - 🌍 &nbsp; I'm Brazilian and I live in Braga, Portugal.
 - 📫 &nbsp; How to reach me sebastiaobnjunior@gmail.com
 
